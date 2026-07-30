@@ -1,0 +1,5 @@
+========== VAE Evaluation ==========
+
+Average MSE  : 0.010518
+Average PSNR : 19.83 dB
+Average SSIM : 0.6035

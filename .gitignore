@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.env/
+
+# Datasets
+dataset/
+data/
+
+# Model weights
+*.pth
+*.pt
+
+# Logs
+logs/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Outputs
+results/
+generated_images/

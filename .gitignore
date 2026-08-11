@@ -1,25 +1,31 @@
-# Python
+# Virtual environment
+venv/
+.venv/
+
+# Python cache
 __pycache__/
 *.pyc
 
-# Virtual environment
-venv/
-.env/
-
 # Datasets
 dataset/
-data/
 
-# Model weights
-*.pth
-*.pt
+# Generated data
+generated/
+generated_dataset/
 
 # Logs
 logs/
 
-# Jupyter
-.ipynb_checkpoints/
+# Temporary outputs
+outputs/
+plots/
 
-# Outputs
-results/
-generated_images/
+# Model checkpoints
+checkpoints/
+
+# IDE
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db

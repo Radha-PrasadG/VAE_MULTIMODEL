@@ -36,6 +36,10 @@ The framework explores VAE-based synthetic data generation across three differen
 
 The main objective is to learn meaningful latent representations of different types of data and use those representations to generate new synthetic samples.
 
+* [MVTec AD Dataset](https://www.mvtec.com/research-teaching/datasets/mvtec-ad?utm_source=chatgpt.com)
+* [Customer Churn Dataset – Kaggle](https://www.kaggle.com/datasets/ahmedgaitani/customer-churn-prediction-dataset?utm_source=chatgpt.com)
+* [SMS Spam Collection – UCI](https://archive.ics.uci.edu/dataset/228/sms+spam+collection?utm_source=chatgpt.com)
+
 ---
 
 # 🎯 Objectives
